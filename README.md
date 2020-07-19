@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Doradx/Doradx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 Name: Dorad
+- 😆 Blog: [Dorad's blog](https://blog.cuger.cn)
+- 📫 Email: cug.xia@gmail.com
+
+[![Github Stats By Doradx](https://github-readme-stats.vercel.app/api?username=doradx&show_icons=true&title_color=0366d6&icon_color=ffc83d&text_color=24292e&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats)
